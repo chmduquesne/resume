@@ -1,16 +1,8 @@
 /*
- * Color theme:
- * sides: #C7E1BA
- * title: #757575
- * categories, links: #397249
- * bar before categories: #9CB770
+ * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+ *
+ * CSS for making a resume with pandoc. Inspired by moderncv.
  */
-
-/*
-html {
-    background: #C7E1BA;
-}
-*/
 
 /* Whole document */
 body {
@@ -18,9 +10,6 @@ body {
     width: 800px;
     margin: auto;
     background: #FFFFFF;
-    /*
-    box-shadow: 10px 10px 5px #888888;
-    */
     padding: 10px 10px 10px 10px;
 }
 
