@@ -120,7 +120,7 @@ Activities
     cercle](http://www.grandcercle.org), one of the largest French
     campus student associations (5.000 members) during university.
 
----
+----
 
 > <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
 >  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE

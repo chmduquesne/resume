@@ -1,23 +1,16 @@
-MD=$(wildcard *.md)
+all: index.html index.pdf index.docx index.txt
 
-HTML=$(MD:.md=.html)
-PDF=$(MD:.md=.pdf)
-DOCX=$(MD:.md=.docx)
-TXT=$(MD:.md=.txt)
+index.html: index.md style.css
+	pandoc --standalone -c style.css --from markdown --to html -o index.html index.md
 
-all: $(HTML) $(PDF) $(DOCX) $(TXT)
+index.pdf: index.html
+	wkhtmltopdf index.html index.pdf
 
-%.html: %.md style.css
-	pandoc --standalone -c style.css --from markdown --to html -o $@ $<
+index.docx: index.md
+	pandoc --from markdown --to docx -o index.docx index.md
 
-%.pdf: %.html
-	wkhtmltopdf $< $@
-
-%.docx: %.md
-	pandoc --from markdown --to docx -o $@ $<
-
-%.txt: %.md
-	pandoc --standalone --smart --from markdown --to plain -o $@ $<
+index.txt: index.md
+	pandoc --standalone --smart --from markdown --to plain -o index.txt index.md
 
 clean:
 	rm -f *.html *.pdf *.docx *.txt
