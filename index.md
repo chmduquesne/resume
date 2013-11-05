@@ -4,13 +4,19 @@ Christophe-Marie Duquesne
 ----
 
 >  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics\
->  French, willing to relocate
+>  Doctor in Computer Science and Mathematics
 
 ----
 
 Corporate Experience
 --------------------
+
+Since 2013
+:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
+    (Frankfurt am Main, Germany).
+
+    Data mining on various sources to forecast passenger demands over
+    airline networks.
 
 2009-2012
 :   *PhD in Operations Research with
