@@ -1,0 +1,69 @@
+
+
+ALEJANDRO SÁEZ MOROLLÓN
+
+
+------------------------------------------------------------------------
+
+
+Experiencia laboral
+
+Desde 2013
+
+    _Administrador de sistemas en el Centro de Innovación de la
+    Universidad de Oviedo_
+     (Mieres, Spain)
+
+    Gestión del CPD, de los servicios de virtualización, del despliegue
+    de nuevos servicios y del mantenimiento e instalación de equipos.
+
+2011-2013
+
+    _Becario de colaboración de servicios de informática de la
+    Universidad de Oviedo en la Escuela de Ingeniería Informática de
+    Oviedo_
+     (Oviedo, Spain).
+
+    Gestión de servidores propios de la Escuela, en particular la
+    infraestructura de virtualización XenServer. Responsable del
+    despliegue de políticas de seguridad y análisis de amenazas.
+
+
+Cursos y charlas impartidas
+
+_Diversos cursos sobre plataformas Ubuntu y Debian con la colaboración
+de AsturLinux y Ubuntu-ast._
+
+_Jornada de puertas abiertas en la Escuela de Ingeniería Informática de
+la Universidad de Oviedo._
+
+_Semana de la ciencia, diversas charlas en centros de educación
+secundaria._
+
+
+Formación
+
+Desde 2008
+
+    _Grado en Ingeniería Informática del Software Universidad de Oviedo
+    en la Escuela de Ingeniería Informática de Oviedo_
+     (Oviedo, Spain).
+
+    Cursando tercer curso.
+
+
+Otra formación
+
+2009
+
+    _Curso: Hacking ético y test de intrusión Vicerrectorado de
+    Extensión Universitaria Universidad de Oviedo_
+
+    4,5 créditos
+
+2010-2013
+    _Congreso de seguridad RootedCon_
+
+------------------------------------------------------------------------
+
+  alex@saezm.es +34 687 28 19 74 SPAIN
