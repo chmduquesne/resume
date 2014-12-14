@@ -9,7 +9,7 @@
 
 /* Whole document */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Andale Mono Regular", Georgia, Arial, sans-serif;
     width: 800px;
     margin: auto;
     background: #FFFFFF;
@@ -31,7 +31,7 @@ h1:hover {
 
 /* Titles of categories */
 h2 {
-    color: #397249;
+    color: #268bd2;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -40,10 +40,10 @@ h2:before {
     margin-right:1%;
     width: 16%;
     height: 10px;
-    background-color: #9CB770;
+    background-color: #859900;
 }
 h2:hover {
-    background-color: #397249;
+    background-color: #657b83;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
